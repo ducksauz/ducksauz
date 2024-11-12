@@ -1,7 +1,9 @@
 ## Ohai! 👋
 
-If you're coming to [Teardown2024](https://www.crowdsupply.com/teardown/portland-2024) and are planning to take my workshop on [Making IoT Devices on ESP32 with Matter and Thread](https://www.crowdsupply.com/teardown/portland-2024/workshop/making-iot-devices-on-esp32-with-matter-and-thread), *PLEASE* install the needed tools and docker image before you come so you're not fighting with conference wifi on the day.
+Hi. I'm ducksauz. Thanks for dropping by my github profile.
 
-Check out the instructions in the workshop README. There's even a tl;dr version for those with limited attention spans.
+Perhaps you've seen me [on Mastodon](https://snug.town/@ducksauz), perhaps you came to one of my workshops on [Making IoT Devices on ESP32 with Matter and Thread](https://www.crowdsupply.com/teardown/portland-2024/workshop/making-iot-devices-on-esp32-with-matter-and-thread). 
 
-https://github.com/ducksauz/esp-matter-workshop
+If you're interested in that topic, I recommend you check out the [esp-matter-workshop](https://github.com/ducksauz/esp-matter-workshop) and [esp-matter-dev](https://github.com/ducksauz/esp-matter-dev) repos.
+
+If you like a good joke, I suggest you check out [WelshOTP](https://github.com/ducksauz/welshOTP).
